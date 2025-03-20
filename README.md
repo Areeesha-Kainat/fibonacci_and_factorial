@@ -2,7 +2,7 @@
 
 A beautiful dual purpose web app for mathematical calculations with dynamic dark/light mode. Built with Streamlit and styled with custom CSS.
 
-[![Streamlit App](https://fibonacci-factorial.streamlit.app/)
+[Streamlit App](https://fibonacci-factorial.streamlit.app/)
 
 ## ✨ Features
 
